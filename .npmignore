@@ -21,3 +21,4 @@ docs
 .github
 .gitignore
 tsconfig.json
+test

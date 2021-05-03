@@ -18,6 +18,9 @@
         "node_modules",
         "dist"
     ],
+    "include": [
+        "src"
+    ],
     "typedocOptions": {
         "entryPoints": [
             "src/index.ts"
