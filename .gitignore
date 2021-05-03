@@ -1,0 +1,15 @@
+# Modules
+node_modules
+
+# Code Editors
+.vscode
+
+# Production Code
+dist
+
+# Lock files
+yarn.lock
+package-lock.json
+
+# Env Files
+.env

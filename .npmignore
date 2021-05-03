@@ -1,0 +1,23 @@
+# Modules
+node_modules
+
+# Code Editors
+.vscode
+
+# Development Code
+src
+
+# Lock files
+yarn.lock
+package-lock.json
+
+# Env Files
+.env
+
+# Docs
+docs
+
+# Other files
+.github
+.gitignore
+tsconfig.json
