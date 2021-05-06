@@ -27,6 +27,7 @@ const start = async () => {
   // get planned vaccination sessions for 7 days from a specific date in a given pincode.
   const CalendarByDistrict = await calendarByDistrict(districts.districts[0].district_id, "03-05-2021")
 
+  console.log(CalendarByDistrict.centers)
 }
 
 start()
